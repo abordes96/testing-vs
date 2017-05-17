@@ -40,6 +40,7 @@
   <ItemGroup>
     <Compile Include="TestClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestMaxMin.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
